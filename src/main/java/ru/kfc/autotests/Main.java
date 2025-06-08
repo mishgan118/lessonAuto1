@@ -7,6 +7,8 @@ import java.util.Arrays;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        // ДЗ по Уроку №1
+        /*
         int length = 20; // длина массива
         int[] nums = new int[length];
 
@@ -28,6 +30,12 @@ public class Main {
         // Подсчет и вывод суммы всех элементов массива
         int Summa = Arrays.stream(nums).sum();
         System.out.println("Сумма всех элементов массива: " + Summa);
+        */
+
+
+
+
+
 
         }
 }
